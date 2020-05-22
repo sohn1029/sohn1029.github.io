@@ -1,0 +1,4 @@
+#Fri May 22 00:53:21 KST 2020
+base.0=C\:\\Users\\GeonHoSon\\AndroidStudioProjects\\Weather_hw\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
