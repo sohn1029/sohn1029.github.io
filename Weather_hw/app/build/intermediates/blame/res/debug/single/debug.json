@@ -12,12 +12,12 @@
         "source": "C:\\Users\\GeonHoSon\\AndroidStudioProjects\\Weather_hw\\app\\src\\main\\res\\layout\\activity_detail.xml"
     },
     {
-        "merged": "C:\\Users\\GeonHoSon\\AndroidStudioProjects\\Weather_hw\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
-        "source": "C:\\Users\\GeonHoSon\\AndroidStudioProjects\\Weather_hw\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
-    },
-    {
         "merged": "C:\\Users\\GeonHoSon\\AndroidStudioProjects\\Weather_hw\\app\\build\\intermediates\\res\\merged\\debug\\layout_list_view_item.xml.flat",
         "source": "C:\\Users\\GeonHoSon\\AndroidStudioProjects\\Weather_hw\\app\\src\\main\\res\\layout\\list_view_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\GeonHoSon\\AndroidStudioProjects\\Weather_hw\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\GeonHoSon\\AndroidStudioProjects\\Weather_hw\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
     },
     {
         "merged": "C:\\Users\\GeonHoSon\\AndroidStudioProjects\\Weather_hw\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
