@@ -5,6 +5,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import android.widget.ArrayAdapter
+import android.widget.ListView
 import androidx.fragment.app.Fragment
 import kotlinx.android.synthetic.main.forecast_listview.*
 
@@ -30,7 +31,8 @@ class ForecastFragment: Fragment(){
         )
         println(data)
         val adapter = ArrayAdapter(this.context!!,android.R.layout.simple_list_item_1,data)
-        forecast_list.adapter = adapter
+        var listview = view!!.findViewById<ListView>(R.id.forecast_list)
+        listview.adapter = adapter
 
 
 
