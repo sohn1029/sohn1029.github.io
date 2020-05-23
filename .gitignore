@@ -11,15 +11,15 @@
 *.class
 
 # Generated files
-bin/
-gen/
-out/
+Weather_hw/bin/
+Weather_hw/gen/
+Weather_hw/out/
 #  Uncomment the following line in case you need and you don't have the release build type files in your app
 # release/
 
 # Gradle files
-.gradle/
-build/
+Weather_hw/.gradle/
+Weather_hw/build/
 
 # Local configuration file (sdk path, etc)
 local.properties
@@ -38,17 +38,17 @@ captures/
 
 # IntelliJ
 *.iml
-.idea/workspace.xml
-.idea/tasks.xml
-.idea/gradle.xml
-.idea/assetWizardSettings.xml
-.idea/dictionaries
-.idea/libraries
+Weather_hw/.idea/workspace.xml
+Weather_hw/.idea/tasks.xml
+Weather_hw/.idea/gradle.xml
+Weather_hw/.idea/assetWizardSettings.xml
+Weather_hw/.idea/dictionaries
+Weather_hw/.idea/libraries
 # Android Studio 3 in .gitignore file.
-.idea/caches
-.idea/modules.xml
+Weather_hw/.idea/caches
+Weather_hw/.idea/modules.xml
 # Comment next line if keeping position of elements in Navigation Editor is relevant for you
-.idea/navEditor.xml
+Weather_hw/.idea/navEditor.xml
 
 # Keystore files
 # Uncomment the following lines if you do not want to check your keystore files in.
@@ -75,7 +75,7 @@ fastlane/test_output
 fastlane/readme.md
 
 # Version control
-vcs.xml
+Weather_hw/vcs.xml
 
 # lint
 lint/intermediates/
